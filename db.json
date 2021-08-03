@@ -1,0 +1,53 @@
+
+{
+"rockinrio2019-playlist": [{
+        
+        "thumbnailUrl": "http://i3.ytimg.com/vi/b9AcRUo-J9w/maxresdefault.jpg",
+        "title": "Red Hot Chili Peppers - Rock in Rio 2019",
+        "author": "Rock in Rio",
+        "link" : "https://youtu.be/-e4niD79C_M&t=8s"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/gaLOFIwDFLI/maxresdefault.jpg",
+        "title": "LIVE #002 - A arte de escrever programas legíveis! + 20 dicas práticas! (PARTE 1)",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/gaLOFIwDFLI"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/VBfs42u4QKA/maxresdefault.jpg",
+        "title": "LIVE #003 - A arte de escrever programas legíveis! + 20 dicas práticas! - (PARTE 2)",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/VBfs42u4QKA"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/gLNzLRqHF8c/maxresdefault.jpg",
+        "title": "LIVE #004 - Desenvolvedor Android Júnior: o que você precisa saber!",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/gLNzLRqHF8c"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/PRmkgeX5pOs/maxresdefault.jpg",
+        "title": "LIVE #005 - Criando e publicando seu primeiro app Android!",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/PRmkgeX5pOs"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/EB32R-u_tac/maxresdefault.jpg",
+        "title": "LIVE #006 - Dominando o RecyclerView com Kotlin no Android!",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/EB32R-u_tac"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/T7sgxmgwDx8/maxresdefault.jpg",
+        "title": "LIVE #007 - Activities, ciclo de vida e multiplas telas no Android (Conteúdo essencial)",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/T7sgxmgwDx8"
+    },
+    {
+        "thumbnailUrl": "https://i3.ytimg.com/vi/Gf5VEBQQzrk/maxresdefault.jpg",
+        "title": "LIVE #008 - Introdução a Arquitetura MVVM no Android com Kotlin",
+        "author": "Kaique Ocanha",
+        "link" : "https://youtu.be/Gf5VEBQQzrk"
+    }
+ ]
+}  
